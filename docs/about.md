@@ -1,0 +1,3 @@
+# We are Lantern
+
+Our mission is to...

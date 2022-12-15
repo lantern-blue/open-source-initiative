@@ -1,0 +1,5 @@
+site_name: Lantern's Open Source Initative
+site_url: https://osi.lantern.blue/
+nav:
+  - Home: index.md
+  - About: about.md
